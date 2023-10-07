@@ -6,8 +6,9 @@
 }
 #navbar{
     margin: 3px;  
-    padding: 10px;
+    padding: 20px;
     width: 98.6vw;
+    width: 100vw;
     align-items: center;
     display: flex;
     background-color: #f1dbd5;
@@ -52,12 +53,12 @@
     display: inline;
  }
 .banner{
-    background-image: url(750FD38C-25AA-4632-8495-3C4F9D4C9E5B.PNG);
-    padding: 40px;
+    background-image: url(Untitled\ design\(1\).jpg);
+    padding: 20px;
+    margin: 3px;
     background-color: antiquewhite;
-    background-repeat: no-repeat;
-    width: 95vw;
-    height: 650px;
+    width: 100vw;
+    height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -108,8 +109,9 @@
     background-color: #b68b7f;
     text-decoration: none;
     margin: 3px;  
-    padding: 30px;
+    padding: 20px;
     width: 96.1vw;
+    width: 100vw;
     align-items: center;
     display: flex;
 }
@@ -146,12 +148,13 @@
     border: 3px solid #442b1c;
 }
 .gallery{
-    background-image: url(bannerpicJPEG.JPEG);
+    background-image: url(Untitled\ design.jpg);
     opacity: .8;
-    padding: 40px;
+    padding: 20px;
     background-repeat: no-repeat;
     width: 94.8vw;
-    height: 650px;
+    width: 100vw;
+    height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     margin: 3px;
@@ -171,5 +174,5 @@
     border: 10px double #debca6;
 }
 .gallery .pics{
-    margin-top: 100px;
+    margin-top: 8em;
 }
