@@ -6,9 +6,8 @@
 }
 #navbar{
     margin: 3px;  
-    padding: 20px;
-    width: 98.6vw;
-    width: 100vw;
+    padding: 1.5vw;
+    width: 97vw;
     align-items: center;
     display: flex;
     background-color: #f1dbd5;
@@ -54,10 +53,10 @@
  }
 .banner{
     background-image: url(Untitled\ design\(1\).jpg);
-    padding: 20px;
+    padding: 1.5vw;;
     margin: 3px;
     background-color: antiquewhite;
-    width: 100vw;
+    width: 97vw;
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -109,9 +108,8 @@
     background-color: #b68b7f;
     text-decoration: none;
     margin: 3px;  
-    padding: 20px;
-    width: 96.1vw;
-    width: 100vw;
+    padding:  1.5vw;
+    width: 97vw;
     align-items: center;
     display: flex;
 }
@@ -150,13 +148,11 @@
 .gallery{
     background-image: url(Untitled\ design.jpg);
     opacity: .8;
-    padding: 20px;
+    padding: 1.5vw;
     background-repeat: no-repeat;
-    width: 94.8vw;
-    width: 100vw;
+    width: 97vw;
     height: 100vh;
     background-position: center;
-    background-repeat: no-repeat;
     margin: 3px;
     text-align: center;
 }
