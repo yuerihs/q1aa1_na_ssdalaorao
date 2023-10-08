@@ -161,12 +161,12 @@
     font-family: 'Montserrat', sans-serif;
     color: #fff9f2;
     text-shadow: 4px 1px #281e17;
-    top: 19%;
+    top: 23%;
     left: 5%;
 }
 .pics img{
     margin: 20px;
-    width: 12%;
+    width: 14vw;
     border: 10px double #debca6;
 }
 .gallery .pics{
