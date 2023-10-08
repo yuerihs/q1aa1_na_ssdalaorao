@@ -192,8 +192,8 @@
     background-repeat: no-repeat;
 }
 .abtme img{
-    margin-top: 8em;
-    margin-left: 33%;
+    margin: 20px;
+    width: 14vw;
     transition: 0.3s;
     border: 10px double #eccdb8;
 }
