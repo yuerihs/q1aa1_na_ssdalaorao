@@ -180,3 +180,39 @@
 .gallery .pics{
     margin-top: 10em;
 }
+.abtme{
+    background-image: url(Untitled\ design.jpg);
+    padding: 1.5vw;;
+    margin: 3px;
+    background-color: antiquewhite;
+    opacity: .8;
+    width: 97vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.abtme img{
+    margin-top: 8em;
+    margin-left: 33%;
+    transition: 0.3s;
+    border: 10px double #eccdb8;
+}
+.abtme img:hover{
+    transition: 0.5s;
+    transform: scale(1.10);
+}
+.abtme p{  
+    color: #e3e0e0;
+    text-shadow: 2px 1px #5e3023;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+.abtme h1{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff9f2;
+    text-shadow: 4px 1px #281e17;
+    top: 23%;
+    left: 5%;
+}
