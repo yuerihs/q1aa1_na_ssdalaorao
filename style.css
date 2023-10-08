@@ -192,6 +192,7 @@
     background-repeat: no-repeat;
 }
 .abtme img{
+    position: relative;
     margin-top: 8em;
     margin-left: 33%;
     transition: 0.3s;
