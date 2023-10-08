@@ -25,8 +25,8 @@
     transition: 0.2s;
  }
  #navbar #logo{
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
     float: left;
     margin-left: 5%;
  }
@@ -42,6 +42,9 @@
     background-color: #895737; color: #f3e9dc;
  }
  #Gallery{
+    background-color: #895737; color: #f3e9dc;
+ }
+ #AboutMe{
     background-color: #895737; color: #f3e9dc;
  }
  .rounded{
@@ -93,7 +96,7 @@
     opacity: .70;
     transition: 0.2s;
 }
-.banner #gaur{
+.banner #nextpage{
     background-color: #a5765a; 
     color: #f3e9dc;
     text-shadow: 1px 2px #3e2a1d;
@@ -121,19 +124,19 @@
 .footer .prlink{
     flex: 1;
 }
-.footer .footerlinks a #fb{ 
+.footer .ftrlink a #fb{ 
     float: left;
     margin-right: 4px;
 }
-.footer .footerlinks a #twt{ 
+.footer .ftrlink a #twt{ 
     float: left;
     margin-right: 4px;
 }
-.footer .footerlinks a #ig{ 
+.footer .ftrlink a #ig{ 
     float: left;
     margin-right: 4px;
 }
-.footer .footerlinks a{
+.footer .ftrlink a{
     opacity: .80;
     transition: 0.2s;
 }
@@ -167,8 +170,13 @@
 .pics img{
     margin: 20px;
     width: 14vw;
-    border: 10px double #debca6;
+    transition: 0.3s;
+    border: 10px double #eccdb8;
+}
+.pics img:hover{
+    transition: 0.5s;
+    transform: scale(1.15);
 }
 .gallery .pics{
-    margin-top: 8em;
+    margin-top: 10em;
 }
